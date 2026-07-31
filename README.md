@@ -60,6 +60,7 @@ An all-in-one automated reconnaissance, vulnerability scanning, and OSINT framew
 | **OSINT & Threat Intel** | `python-whois`, `Shodan`, `Censys` | WHOIS lookups and API-driven internet-wide asset discovery |
 
 ---
+<img width="650" height="665" alt="image" src="https://github.com/user-attachments/assets/d3fa9790-7030-4aaf-a960-c5fb25cbf2f8" />
 
 ##  Prerequisites
 
