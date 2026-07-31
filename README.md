@@ -1,4 +1,4 @@
-# 🛡️ Ultimate Security Hub (USH) v5.2 Elite
+#  Ultimate Security Hub (USH) 
 
 ```text
 ██╗   ██╗███████╗███████╗██████╗  ██████╗ ███████╗██╗  ██╗
@@ -19,7 +19,7 @@ An all-in-one automated reconnaissance, vulnerability scanning, and OSINT framew
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Key Features](#-key-features)
 - [Architecture & Integrated Tools](#-architecture--integrated-tools)
@@ -37,7 +37,7 @@ An all-in-one automated reconnaissance, vulnerability scanning, and OSINT framew
 
 ---
 
-## ⚡ Key Features
+##  Key Features
 
 - **Automated Dependency Engine:** Automatically checks for missing tools (`nmap`, `rustscan`, `nuclei`, `subfinder`, `httpx`, `dnsx`, `ffuf`, `amass`, `gobuster`, `nikto`, `sqlmap`, `wpscan`) and offers real-time one-click fixes.
 - **Tor Anonymity Core:** Route scans through Tor with SOCKS5 / Proxychains4 integration. Includes manual (`NEWNYM`) and scheduled automatic IP rotation threads.
@@ -47,7 +47,7 @@ An all-in-one automated reconnaissance, vulnerability scanning, and OSINT framew
 
 ---
 
-## 🛠️ Architecture & Integrated Tools
+##  Architecture & Integrated Tools
 
 | Module | Engine / Tool | Description |
 | :--- | :--- | :--- |
@@ -61,7 +61,7 @@ An all-in-one automated reconnaissance, vulnerability scanning, and OSINT framew
 
 ---
 
-## 💻 Prerequisites
+##  Prerequisites
 
 Ensure your system meets the following requirements before installation:
 
